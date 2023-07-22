@@ -1,0 +1,67 @@
+.navigation{
+    text-align: center;
+
+} 
+li a{
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+} 
+li a:hover{
+background-color: rgba(130, 130, 130, 0.746);
+}  
+#h4{
+    background-color: rgba(87, 87, 81, 0.656);
+    color: rgba(6, 12, 83, 0.781);
+    margin: 1%;
+    padding:3%;
+}
+.Pak{
+    background-color: rgb(220, 217, 223);
+    margin: 1%;
+padding:3%;
+border-top: solid 1px rgb(186, 184, 187);
+
+}
+.Pak :hover{
+ background-color: aquamarine;
+
+}
+.vision{
+
+    height: 300px;
+    font-size: 14px;
+}
+.span1{
+    color:rgb(25, 57, 175);
+}
+.span2{
+    color: rgb(105, 184, 20);
+}
+.btn{
+    border: solid 1px;
+    background-color: blue;
+}
+#border{
+    border: solid 1px;
+}
+.border2{
+    border: solid 1px;
+    text-align: center;
+}
+h3{
+    background-color: rgb(43, 70, 226);
+    color: aliceblue;
+}
+.span3{
+    color: green;
+}
+.span4{
+    color: rgb(75, 75, 219);
+}
+.span5{
+    color: red;
+}
+.span6{
+    color: brown;
+}
